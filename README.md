@@ -53,30 +53,6 @@ lib/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Description               | Image                                                      |
 | ------------------------- | -----------------------------------------------------------|
 | Grid Gallery (Responsive) | ![grid(Responsive)](images/grid_gallery(Responsive).png)   | 
