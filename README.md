@@ -49,6 +49,12 @@ lib/
 | Description  | Image                                          |
 | ------------ | -----------------------------------------------|
 | Grid Gallery | ![grid](images/grid_gallery(Fixed_Column).png) |
+|              |                                                |
+|              |                                                |
+|              |                                                |
+|              |                                                |
+|              |                                                |
+|              |                                                |
 |              | ![grid](images/grid_gallery(Responsive).png)   |                                                             
 
 ## 🎯 Mục tiêu
