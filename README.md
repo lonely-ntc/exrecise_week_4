@@ -46,16 +46,15 @@ lib/
 
 ### 📸 Screenshot
 
-| Description  | Image                                          |
-| ------------ | -----------------------------------------------|
-| Grid Gallery | ![grid](images/grid_gallery(Fixed_Column).png) |
-|              |                                                |
-|              |                                                |
-|              |                                                |
-|              |                                                |
-|              |                                                |
-|              |                                                |
-|              | ![grid](images/grid_gallery(Responsive).png)   |                                                             
+| Description                 | Image                                          |
+| --------------------------- | -----------------------------------------------|
+| Grid Gallery (Fixed_Column) | ![grid](images/grid_gallery(Fixed_Column).png) |
+
+
+| Description               | Image                                          |
+| ------------------------- | -----------------------------------------------|
+| Grid Gallery (Responsive) | ![grid](images/grid_gallery(Responsive).png)   | 
+                                                            
 
 ## 🎯 Mục tiêu
 
