@@ -29,7 +29,7 @@ lib/
 
 | Description         | Image                                  |
 | ------------------- | -------------------------------------- |
-| Contact List Screen | `![contacts](images/contact_list.png)` |
+| Contact List Screen | ![contacts](images/contact_list.png)   |
 
 
 ## 🎯 Yêu cầu
@@ -48,8 +48,8 @@ lib/
 
 | Description  | Image                                          |
 | ------------ | -----------------------------------------------|
-| Grid Gallery | `![grid]images/grid_gallery(Fixed_Column).png)`|
-|              | `![grid](images/grid_gallery(Responsive).png)` |                                                             
+| Grid Gallery | ![grid]images/grid_gallery(Fixed_Column).png)  |
+|              | ![grid](images/grid_gallery(Responsive).png)   |                                                             
 
 ## 🎯 Mục tiêu
 
@@ -70,7 +70,7 @@ lib/
 
 | Description        | Image                                   |
 | ------------------ | --------------------------------------- |
-| Shared Pref Screen | `![sharedpref](images/shared_pref.png)` |
+| Shared Pref Screen | ![sharedpref](images/shared_pref.png)   |
 
 ## 🎯 Chức năng
 
@@ -94,7 +94,7 @@ lib/
 
 | Description       | Image                                      |
 | ----------------- | ------------------------------------------ |
-| Async User Screen | `![async](images/async_screen.png)` |
+| Async User Screen | ![async](images/async_screen.png)          |
 
 ## 🎯 Yêu cầu
 
@@ -112,7 +112,7 @@ lib/
 
 | Description            | Image                              |
 | ---------------------- | ---------------------------------- |
-| Factorial              | `![result](images/factorial.png)`   |
+| Factorial              | ![result](images/factorial.png)    |
 
 ## 🎯 Yêu cầu
 
@@ -132,7 +132,7 @@ lib/
 
 | Description     | Image                            |
 | --------------- | -------------------------------- |
-| Console isolate | `![isolate](images/isolate.png)` |
+| Console isolate | ![isolate](images/isolate.png)   |
 
 ## 🎯 Luồng xử lý
 
