@@ -51,6 +51,32 @@ lib/
 | Grid Gallery (Fixed_Column) | ![grid(Fixed_Column)](images/grid_gallery(Fixed_Column).png) |
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Description               | Image                                                      |
 | ------------------------- | -----------------------------------------------------------|
 | Grid Gallery (Responsive) | ![grid(Responsive)](images/grid_gallery(Responsive).png)   | 
